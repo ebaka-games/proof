@@ -8,7 +8,12 @@ self.__BUILD_MANIFEST = {
         "source": "/proof/proof/:path*"
       }
     ],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/proof//_next/:path+",
+        "destination": "/proof/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
