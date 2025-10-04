@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,73357,e=>{e.v("https://ebaka-games.github.io/proof/_next/static/media/logo.ceb4e008.webp")}]);
